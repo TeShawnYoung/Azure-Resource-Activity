@@ -1,1 +1,1 @@
-# -Azure-Resource-Activity
+# Azure-Resource-Activity
